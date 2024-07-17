@@ -9,6 +9,9 @@ class MyComponent extends Component {
     }
 }
 
+
+
+
 render(<MyComponent id="a" class="c">
     <div>333</div>
     <div>1111</div>
