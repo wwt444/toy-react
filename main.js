@@ -16,4 +16,7 @@ render(<MyComponent id="a" class="c">
     <div>333</div>
     <div>1111</div>
     <div>222</div>
+
+
+    
 </MyComponent>,document.body) 
