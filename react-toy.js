@@ -16,6 +16,8 @@ class TextWrapper {
 
 }
 
+
+
 export class Component {
     constructor() {
         this.props = Object.create(null)
