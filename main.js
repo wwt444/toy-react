@@ -1,5 +1,5 @@
 import { render, Component, creatElement } from './react-toy.js'
-
+console.log('111111');
 class MyComponent extends Component {
     render() {
         return (<div>
